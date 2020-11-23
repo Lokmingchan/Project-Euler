@@ -1,0 +1,13 @@
+C:\inetpub\wwwroot\SandboxApplication1\SandboxApplication1\bin\Debug\SandboxApplication1.exe.config
+C:\inetpub\wwwroot\SandboxApplication1\SandboxApplication1\bin\Debug\SandboxApplication1.exe
+C:\inetpub\wwwroot\SandboxApplication1\SandboxApplication1\bin\Debug\SandboxApplication1.pdb
+C:\inetpub\wwwroot\SandboxApplication1\SandboxApplication1\obj\Debug\SandboxApplication1.exe
+C:\inetpub\wwwroot\SandboxApplication1\SandboxApplication1\obj\Debug\SandboxApplication1.pdb
+C:\inetpub\wwwroot\SandboxApplication1\SandboxApplication1\obj\Debug\SandboxApplication1.csprojResolveAssemblyReference.cache
+C:\Development\SandboxApplication1\SandboxApplication1\bin\Debug\SandboxApplication1.exe.config
+C:\Development\SandboxApplication1\SandboxApplication1\bin\Debug\SandboxApplication1.exe
+C:\Development\SandboxApplication1\SandboxApplication1\bin\Debug\SandboxApplication1.pdb
+C:\Development\SandboxApplication1\SandboxApplication1\obj\Debug\SandboxApplication1.csprojResolveAssemblyReference.cache
+C:\Development\SandboxApplication1\SandboxApplication1\obj\Debug\SandboxApplication1.csproj.CoreCompileInputs.cache
+C:\Development\SandboxApplication1\SandboxApplication1\obj\Debug\SandboxApplication1.exe
+C:\Development\SandboxApplication1\SandboxApplication1\obj\Debug\SandboxApplication1.pdb

@@ -1,0 +1,13 @@
+C:\Development\SandboxApplication1\SandboxApplication1\obj\Debug\ProjectEuler.csproj.CoreCompileInputs.cache
+C:\Development\SandboxApplication1\SandboxApplication1\bin\Debug\ProjectEuler.exe.config
+C:\Development\SandboxApplication1\SandboxApplication1\bin\Debug\ProjectEuler.exe
+C:\Development\SandboxApplication1\SandboxApplication1\bin\Debug\ProjectEuler.pdb
+C:\Development\SandboxApplication1\SandboxApplication1\obj\Debug\ProjectEuler.exe
+C:\Development\SandboxApplication1\SandboxApplication1\obj\Debug\ProjectEuler.pdb
+C:\Development\ProjectEuler\bin\Debug\ProjectEuler.exe.config
+C:\Development\ProjectEuler\bin\Debug\ProjectEuler.exe
+C:\Development\ProjectEuler\bin\Debug\ProjectEuler.pdb
+C:\Development\ProjectEuler\obj\Debug\ProjectEuler.csprojResolveAssemblyReference.cache
+C:\Development\ProjectEuler\obj\Debug\ProjectEuler.csproj.CoreCompileInputs.cache
+C:\Development\ProjectEuler\obj\Debug\ProjectEuler.exe
+C:\Development\ProjectEuler\obj\Debug\ProjectEuler.pdb
